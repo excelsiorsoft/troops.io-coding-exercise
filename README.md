@@ -1,4 +1,4 @@
-Troops.ai coding exercise
+XXXXXX coding exercise
 ====
 
 Time
@@ -12,7 +12,7 @@ Build a URL shortener service
 Background
 ===
 
-We provide a number of deep links to Salesforce and other integrations in Slack through Troops bot. We
+We provide a number of deep links to Salesforce and other integrations in Slack through XXXXX bot. We
 need have an ability to shorten and track the clicks on these links so we can make product roadmap
 decisions.
 
