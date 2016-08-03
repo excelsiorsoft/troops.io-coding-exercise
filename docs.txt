@@ -1,0 +1,11 @@
+https://www.google.com/search?client=ubuntu&hs=8rz&channel=fs&q=bijection+java+url+shortener&oq=bijection+java+url+shorte&gs_l=serp.3.0.33i21.242403.244919.0.246125.11.11.0.0.0.0.107.736.8j2.10.0....0...1c.1.64.serp..1.6.470...0i22i30j0i22i10i30.NpH1BeiWJrw
+https://github.com/delight-im/ShortURL/blob/master/Java/ShortURL.java
+https://dzone.com/articles/url-shortener-service-42-lines
+https://adambard.com/blog/a-clojure-url-shortener-service/
+coddicted.com/design-a-tiny-url-or-url-shortener/
+https://vaskoz.wordpress.com/2013/04/06/java-7-hashing-drastically-better-than-java-6/
+http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
+https://github.com/bargenson/url-shortener/blob/master/pom.xml
+https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo
+https://gist.github.com/jdcrensh/4670128
+http://rocky-says.blogspot.com/2010/04/java-code-url-shortener.html
